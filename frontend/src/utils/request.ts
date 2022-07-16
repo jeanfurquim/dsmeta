@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://dsmeta-furquim.herokuapp.com' ?? "http://localhost:8080";
